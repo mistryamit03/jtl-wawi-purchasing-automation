@@ -1,0 +1,6 @@
+sku,product_name,current_stock,available_stock,minimum_stock,reorder_status,supplier_name,supplier_sku,purchase_price_eur_net,proposed_order_qty,line_total_eur_net
+POOL-001,Chlorine Tablets 1 kg,5,5,10,REORDER,Pool Supply Demo GmbH,SUP-POOL-001,10,15,150
+POOL-002,pH Minus 5 kg,12,12,10,OK,Pool Supply Demo GmbH,SUP-POOL-002,8,0,0
+POOL-003,Filter Cartridge,25,25,25,REORDER,Pool Supply Demo GmbH,SUP-POOL-003,12,25,300
+POOL-004,Pool Cover,8,8,10,REORDER,Pool Supply Demo GmbH,SUP-POOL-004,30,12,360
+POOL-005,Pool Ladder,3,3,2,OK,Pool Supply Demo GmbH,SUP-POOL-005,65,0,0

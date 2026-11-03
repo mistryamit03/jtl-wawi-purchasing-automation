@@ -1,0 +1,31 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+**/credentials*.json
+**/secrets*.json
+*.pem
+*.pfx
+*.key
+
+# Local datasets / runtime
+*.bak
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+node_modules/
+__pycache__/
+.venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Unreviewed raw exports (keep outside the public repository)
+workflows/*-raw.json
+workflows/*-private.json
+workflows/*-unsanitized.json
